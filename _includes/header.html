@@ -1,0 +1,7 @@
+<nav><ul>
+  {% for node in site.posts reversed %}
+    {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+    {% capture bg %}{% if node.colors[page.bg] %}{{ node.colors[page.bg] }}{% else %}{{ page.bg }}{% endif %}{% endcapture %}
+    <li class="p-{{ id }} dark-grey-border"><a href="#{{ id }}">{{ node.title }}</a></li>
+  {% endfor %}
+</ul></nav>

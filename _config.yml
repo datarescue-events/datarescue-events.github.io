@@ -1,0 +1,29 @@
+### content configuration ###
+title:       "DataRescue Events"
+keywords:
+description: ""
+source_link: "https://github.com/datarescue-events/datarescue-events.github.io" #put github repo/organization
+favicon:     #put a path like: "img/favicon.ico"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: datarescue-events
+
+### site building configuration ###
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - README.md
+  - .gitignore
+timezone: null
+lsi: false
+markdown: kramdown
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+kramdown:
+  auto_ids:  false
