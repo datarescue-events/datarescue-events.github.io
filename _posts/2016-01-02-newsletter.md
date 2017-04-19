@@ -7,17 +7,14 @@ fa-icon: envelope-o
 
 ## {{ page.title }}
 
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-<form action="//datarescue.us15.list-manage.com/subscribe/post?u=df8d554aeff4c8df77f9a85b4&amp;id=a4aa579915" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
+We're excited about everyone’s joint accomplishments and want to keep the community communicating as we grow, in part through a mailing list that connects past event organizers and attendees to each other and to future event participants!
 
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_df8d554aeff4c8df77f9a85b4_a4aa579915" tabindex="-1" value=""></div>
-    <div class="mce-clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-</form>
+<div style="text-align:center;">
+<a href="http://eepurl.com/cHmLoL" target="_blank" class="button">Subscribe to our Newsletter</a><!--_-->
 </div>
 
-<!--End mc_embed_signup-->
+You can see our full <a href="https://docs.google.com/document/d/1r1ePR_H1J09ILKI1RGeh170AGkq6ZPP68FeE-kdx2IE/edit" target="_blank">Mailing List Administration and Governance Guidelines</a><!--_-->, and we're included the Code of Conduct below: <br>
+
+<blockquote>Online or off, the DataRescue is a harassment-free environment for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion or technical skill level. We do not tolerate harassment of participants in any form.
+
+Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately</blockquote>
